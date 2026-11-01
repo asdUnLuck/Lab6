@@ -13,6 +13,7 @@ int main()
     setlocale(0, ".UTF8");
     task1();
     task2();
+    return 0;
 }
 
 int task1(void)
